@@ -1,6 +1,7 @@
 #!/usr/bin/python
 
 #The problem is from http://www.mrbrown.com/blog/2013/02/more-maths-madness.html
+#This problem is apparently known as "Impossible Puzzle" ( http://en.wikipedia.org/wiki/Impossible_Puzzle )
 #The problem is as following:
 #Both x and y are integer which satisfy 1 < x < y < 100
 #Sam knows the value of x+y
