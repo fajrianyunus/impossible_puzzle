@@ -37,9 +37,9 @@ for x in range(2, 99):
         elif product not in non_unique_xy_product:
             unique_xy_product.add(product)
 
-print "the following numbers have only unique x*y factor:"          
-print sorted(unique_xy_product)
-print ""
+#print "the following numbers have only unique x*y factor:"          
+#print sorted(unique_xy_product)
+#print ""
 
 def get_xy_possibilities_from_its_sum(summation_result):
     output = []
